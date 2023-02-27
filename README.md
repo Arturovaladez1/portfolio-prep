@@ -16,5 +16,22 @@ As a develo[per I bring experience in various fields providing a positive and fr
 
 Collaborating with people from different backgrounds and experiences is what I enjoy most as a developer. A group of people all working towards a similar goal can be very powerful. I've personally had the opportunity to experience this power, diversity has the ability to become a superpower. 
 
+## Projects
 
+### Aperture: Photography Studio
+
+![Photagraphy Web Page](/Images/Apert1.png)
+![Photagraphy Web Page](/Images/Apert2.png)
+![Photagraphy Web Page](/Images/Apert3.png)
+
+### Salmon Cookies
+
+![Photagraphy Web Page](/Images/Cookie1.png)
+![Photagraphy Web Page](/Images/Cookie2.png)
+
+### Odd Duck
+
+![Photagraphy Web Page](/Images/OddDuck1.png)
+![Photagraphy Web Page](/Images/OddDuck2.png)
+![Photagraphy Web Page](/Images/OddDuck3.png)
 
