@@ -2,7 +2,7 @@
 
 ## Arturo C Valadez
 
-![Image of Arturo](Images/IMG_5361.jpg)
+![Image of Arturo](/Images/IMG_5361.jpg)
 
 ### who am I?
 
